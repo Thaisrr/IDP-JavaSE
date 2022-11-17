@@ -1,0 +1,41 @@
+1. Guess the Number
+--------------------
+
+A.
+- Initialiser un nombre à deviner ( entre 0 et 100
+- Dans la console, demander à l'user de deviner le nombre 
+    -> User rentre un entier
+    
+-> Récupérer l'entier entré, le comparer avec le nombre à deviner, et retourner une réponse
+à l'user.
+
+-> Trop haut / Trop bas / gagné
+
+
+B. Tant que user n'a pas gagné, on rejoue, jusqu'à ce qu'iel gagne.
+
+
+C. On ajoute des indices à user.
+-> On lui indique si iel se rapproche, ou s'éloigne
+
+
+D. Quand user à terminé, on lui proposer de recommencer.
+
+
+
+2. Calculatrice
+---------------
+
+Demander à user de rentrer un calcul 
+-> nombre_A   opérateur   nombre_B
+
+=> Retourner le résultat du calcul en fonction de l'opérateur.
+
+
+
+
+
+
+
+
+
